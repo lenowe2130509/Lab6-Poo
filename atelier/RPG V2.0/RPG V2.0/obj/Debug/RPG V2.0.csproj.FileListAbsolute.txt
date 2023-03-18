@@ -1,0 +1,8 @@
+C:\Users\2130509\Documents\Code\Prog2\lab 6\atelier\RPG V2.0\RPG V2.0\bin\Debug\RPG V2.0.exe.config
+C:\Users\2130509\Documents\Code\Prog2\lab 6\atelier\RPG V2.0\RPG V2.0\bin\Debug\RPG V2.0.exe
+C:\Users\2130509\Documents\Code\Prog2\lab 6\atelier\RPG V2.0\RPG V2.0\bin\Debug\RPG V2.0.pdb
+C:\Users\2130509\Documents\Code\Prog2\lab 6\atelier\RPG V2.0\RPG V2.0\obj\Debug\RPG V2.0.csproj.AssemblyReference.cache
+C:\Users\2130509\Documents\Code\Prog2\lab 6\atelier\RPG V2.0\RPG V2.0\obj\Debug\RPG V2.0.csproj.SuggestedBindingRedirects.cache
+C:\Users\2130509\Documents\Code\Prog2\lab 6\atelier\RPG V2.0\RPG V2.0\obj\Debug\RPG V2.0.csproj.CoreCompileInputs.cache
+C:\Users\2130509\Documents\Code\Prog2\lab 6\atelier\RPG V2.0\RPG V2.0\obj\Debug\RPG V2.0.exe
+C:\Users\2130509\Documents\Code\Prog2\lab 6\atelier\RPG V2.0\RPG V2.0\obj\Debug\RPG V2.0.pdb

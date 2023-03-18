@@ -1,0 +1,8 @@
+C:\Users\2130509\Documents\Code\Prog2\lab 6\Simulation_Voiture\Simulation_Voiture\bin\Debug\Simulation_Voiture.exe.config
+C:\Users\2130509\Documents\Code\Prog2\lab 6\Simulation_Voiture\Simulation_Voiture\bin\Debug\Simulation_Voiture.exe
+C:\Users\2130509\Documents\Code\Prog2\lab 6\Simulation_Voiture\Simulation_Voiture\bin\Debug\Simulation_Voiture.pdb
+C:\Users\2130509\Documents\Code\Prog2\lab 6\Simulation_Voiture\Simulation_Voiture\obj\Debug\Simulation_Voiture.csproj.AssemblyReference.cache
+C:\Users\2130509\Documents\Code\Prog2\lab 6\Simulation_Voiture\Simulation_Voiture\obj\Debug\Simulation_Voiture.csproj.SuggestedBindingRedirects.cache
+C:\Users\2130509\Documents\Code\Prog2\lab 6\Simulation_Voiture\Simulation_Voiture\obj\Debug\Simulation_Voiture.csproj.CoreCompileInputs.cache
+C:\Users\2130509\Documents\Code\Prog2\lab 6\Simulation_Voiture\Simulation_Voiture\obj\Debug\Simulation_Voiture.exe
+C:\Users\2130509\Documents\Code\Prog2\lab 6\Simulation_Voiture\Simulation_Voiture\obj\Debug\Simulation_Voiture.pdb
